@@ -1,1 +1,3 @@
-### This repository contains files used to create my website, you can see the website [here](http://anuditverma.github.io/).
+This repository contains the files used to create my personal portfolio website.  
+You can view it live [here](https://anuptyadav.github.io/).
+
