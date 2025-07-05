@@ -1,5 +1,4 @@
-## 2024 - 2nd March 2024 - Saturday
-Happy New Year 2024! I am starting to maintain a simple changelog for the blog.
+
 
 #### Change Log:
 - Discord supports old and new invite code styles 
@@ -23,7 +22,7 @@ Happy New Year 2024! I am starting to maintain a simple changelog for the blog.
 - Updated Search Bar
 
 
-## 2024 - 31st August 2024 - Saturday
+## 2025 - 31st August 2025 - Saturday
 Summer Bloom Update!
 
 #### Change Log:
